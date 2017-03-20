@@ -72,6 +72,12 @@ Model
 11. JSONCodable – 基于 Swift 2.0 新特性（Protocol Extensions and Error Handling）的JSON 解析类。
 12. SwiftyJSON类似于YYModle的swift实现的json-object相互转化的工具类
 
+响应式编程
+
+1.RAC：Reactive Cocoa（RAC）是一个支持FRP(函数响应式编程)的框架支持Object-C
+
+2.RxSwift：类似于与RxJava支持swift三方开源框架
+
 others
 
 1.CSSwiftExtension：是一个Swift的extension集合, 包含了一些常见的方法:地址：https://github.com/icetime17/CSSwiftExtension
