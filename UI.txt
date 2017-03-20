@@ -1,0 +1,54 @@
+    DZNEmptyDataSet（UI，空表格视图解算器）
+
+    PDTSimpleCalendar（UI，drop-in日历组件）
+
+    MagicalRecord（实施活跃记录模式的Core      Data助手）
+
+    Chameleon（UI，色彩框架）
+
+    Alamofire（Swift 网络）
+
+    TextFieldEffects （UI，自定义外观的文本区域）
+
+    GPUImage（快速图片处理）
+
+    iRate（获取用户评价）
+
+    GameCenterManager（快速管理游戏中心）
+
+    PKRevealController（UI，滑动侧边栏菜单）
+
+    SlackTextViewController（UI，高度可定制的自定义文本区域）
+
+    RETableViewManager（自动以代码创建表格视图）
+
+    PermissionScope（UI，预询问用户系统权限的友好体验）
+
+    SVProgressHUD （UI，自定义等待进度条）
+
+    FontAwesomeKit （快速添加Awesome字体）
+
+    SnapKit（在代码中快速自动布局）
+
+    MGSwipeTableCell （UI，可滑动的表格视图cell）
+
+    Quick（Swift单元测试框架）
+
+    IAPHelper（应用内购买助手封装）
+
+    ReactiveCocoa（FRP框架）
+
+    SwiftyJSON（Swift JSON库）
+
+    Spring（动画框架）
+
+    FontBlaster（在应用中快速载入个性化字体）
+
+    TAPromotee（使用drop-in视图交叉推广应用）
+
+    Concorde（下载解码渐进式jpeg）
+
+    KeychainAccess（简便管理keychain）
+
+    iOS-charts（美观的图表库）
+    
