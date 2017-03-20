@@ -33,6 +33,11 @@ iOS开发下载文件速度计算。
 5. EGOCache – 十分知名的第三方缓存类库，可以缓存NSString、UIImage、NSImage以及NSData。除此，如果还可以缓存任何一个遵守协议的对象。
    所有缓存的数据都可以自定义过期的时间，默认是1天。EGOCache 支持多线程（thread-safe），UITableView加载多张照片导致内存上涨的问题。
 6. AlamofireImage：开发Alamofire网络框架的开发针对swift的图片处理框架
+7. GPImage ：https://github.com/BradLarson/GPUImage
+    GPUImage是一个基于GPU图像和视频处理的开源iOS框架。主要功能如下：
+    提供各种各样的图像处理滤镜，并且支持照相机和摄像机的实时滤镜；
+    GPUImage顾名思义，是基于GPU的图像加速，因此图像处理速度非常快，并且能够自定义图像滤镜；
+    支持ARC。
  
 网络聊天
 
