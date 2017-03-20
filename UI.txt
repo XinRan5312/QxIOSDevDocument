@@ -21,7 +21,8 @@
 
 9.ViewDeck: IIViewDeckController能够实现类似于Path 2.0 的视图左右滑动的效果，支持向左或向右顺滑的滑动操作。
 
-10.
+10. pop: facebook/pop · GitHub
+    facebook出品的paper，动画效果太好了，赶超apple的原生app一大截。pop就是paper的动画库！
     
 	
 	DZNEmptyDataSet（UI，空表格视图解算器）
