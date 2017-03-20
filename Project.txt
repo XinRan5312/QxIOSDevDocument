@@ -1,3 +1,5 @@
 1.MACProject:  地址https://github.com/azheng51714/MACProject
    这是使用 Objective-C 整理的一套 iOS 轻量级框架，内部包含大量或自己整理或修改自网络的 Category 、Utils、DataManager、Macros & UIComponents 旨在快速构建中小型 iOS App，
    基于MVC：对常用控件、常用扩展类、数据缓存、网络请求、工具类、常用动画进行封装或二次封装；
+2.JTRevealSidebarDemo：JTRevealSidebarDemo是一个能够实现类似于Facebook客户端和Path应用的视图切换效果的Objective-C库模板，其目的在于为开发者提供一个真正灵活的、可重用的解决方案。
+      JTRevealSidebarDemo可用于iOS 4.3和5.0应用开发，示例代码使用ARC构建，但该库本身则兼容ARC和非ARC。

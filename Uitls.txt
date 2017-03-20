@@ -1,0 +1,43 @@
+http://blog.csdn.net/gf771115/article/details/44997899
+1.HockeyKit：此前在GitHub上“最受欢迎的Android开源项目”系列文章中，我们曾对HockeyKit进行了详细的介绍。HockeyKit是一个用于iOS和Android下App更新的开发包，无论是iOS还是Android应用开发，它都深受开发者喜爱。
+2.PKRevealController：是对ZUUIRevealController的进化，ZUUIRevealController能够实现类似于Facebook客户端的视图横向切换效果。而PKRevealController则是一个iOS视图控制器的集合，能够让你实现多重控制器切换，非常灵活。
+
+3. FastPdfKit：该开源库包含着FastPdfKit iOS库的一些示例项目。FastPdfKit是一个能够让你在iOS应用中显示PDF文档的开发类库，其最大的特点就是加载PDF文档速度特别快。
+
+4.DCIntrospect：Introspect是一个很小的iOS工具集，用于帮助开发者对使用UIKit构建的用户界面进行调试。特别适用于动态创建UI布局、改变运行时，还能通过寻找透明视图优化应用性能，并避免不必要的重绘视图。
+
+5.QuincyKit：QuincyKit是一个为iOS和Mac OS X提供的程序崩溃报告管理解决方案，提供客户端开发包以及基于PHP开发的服务器平台。主要功能：
+
+    a.（自动）向开发者数据库发送崩溃报告；
+    b.由用户决定每次崩溃是否发送数据或总是发送；
+    c.用户可对是否选择提供E-mail地址等额外信息进行设置；
+    d.如果崩溃是已知的，向用户提供即时反馈，并在接下来的更新中进行修复。
+
+6.PushSharp:在应用开发中，给App推送通知是很常见的方式。PushSharp正是这样一个能够实现向iOS（iPhone/iPad APNS）、Android（C2DM和GCM）、Windows Phone、Windows 8、BlackBerry（PAP）和Amazon（ADM）等多种操作系统推送消息通知的开源C#服务器端库。
+      主要特性：
+
+    a.支持多平台消息推送；
+    b.API能够很流畅地为不同平台创建通知；
+    c.自适应信息频道（自动增加或减少消息链接）；
+    d.使用异步代码，基于Event为导向调用类库；
+    e.100%代码托管，兼容Mono框架；
+	
+	
+7.SSToolkit:SSToolkit可以说是iOS开发者最常使用的工具类之一，该开源项目提供了一个完整的iOS类库集合，用于解决iOS开发者在开发过程中常碰到的一些问题，比如追踪一款设备是否具有视网膜显示屏或是否能剪裁图片，包含SSCollectionView、SSGradientView、SSSwitch等诸多非常方便的类。
+
+8.Reader:该项目能够让iOS开发者轻而易举地在iOS设备屏幕上显示PDF文件。代码通用，不需要任何XIB（因为所有UI元素都是代码生成的，具有极大的灵活性），运行于iOS 4.0及其以上版本设备中，同时还支持所有Retina Display设备。
+         支持：
+
+    a.诸如iBooks等的文档导航；
+    b.设备全方位旋转；
+    c.对PDF进行加密（密码保护）；
+    d.PDF链接（URI及跳转页面）；
+    e.PDF旋转页面。
+	
+9.ShareKit:ShareKit是iPhone开发的第三方接口，允许你一键分享文字、图片、网址、文件等内容到Facebook、Twitter、Delicious、Tumblr、Google Reader等第三方网站上。
+
+10.Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
+
+11. facebook-ios-sdk:    Facebook无疑是最成功的SNS社区，如果能够让App具有与Facebook集成的功能，那势必会带来非常好的效果。Facebook SDK for iOS项目更新频率很高，想要获取更多关于示例、文档、将SDK集成到App中、源代码等信息，可直接登陆Facebook Developers查看。
+      https://github.com/facebook/facebook-ios-sdk
+

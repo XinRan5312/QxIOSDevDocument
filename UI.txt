@@ -1,4 +1,30 @@
-    DZNEmptyDataSet（UI，空表格视图解算器）
+1.MGBox2：MGBox2能够实现非常酷的列表交互效果，使用最少代码，即可快速创建各种布局效果的iOS表格、网格，支持新增和删除网格，动态添加或删除列表，在表格中加入多行文字、图片等，支持手势识别和自定义事件。
+
+2.PSCollectionView：PSCollectionView是一个能够实现Pinterest风格的瀑布流视图显示效果的iOS滚动组件，可用于类似的UITableView，支持显示图片和文字。
+
+3.PSStackedView：能够将你的UIViewControllers堆叠起来，实现了类似于Twitter iPad版应用效果的界面，项目发起人Peter Steinberger表示，PSStackedView的灵感正是来自于Twitter iPad的UI。
+              为了开发非常受欢迎的奥地利TV应用“3MobileTV”的iPad版，Peter创作了PSStackedView，开发者可以直接登陆App Store下载该应用。PSStackedView可运行在iPad和iPhone上，但相对而言，更适合用在iPad上。
+			  
+4. MGSplitViewController:为了方面开发，苹果iOS SDK提供了UISplitViewController用于iPad左右分栏界面显示，但对于开发者而言，UISplitViewController使用起来并不方便，在开发过程中，总会遇到许多问题。于是，天才的iOS开发者Matt Gemmell在GitHub上发起了一个名为MGSplitViewController的开源UISplitView实现，它比苹果官方UI组件所提供的分栏类功能更加丰富。
+                        
+     最初Matt编写MGSplitViewController只是为了方便自己使用，但最终Matt决定将其开源，供所有iOS开发者使用。如果想要了解更多关于MGSplitViewController的信息，可直接登陆Matt Gemmell博客查看，也可点击链接，查看视频演示（需翻墙）。
+
+5.SVProgressHUD:
+
+    SVProgressHUD能够实现多种HUD效果，多用于程序正在执行耗时较长的任务，需要用户等待。除了显示等待的HUD，还可以显示命令执行成功或者失败的HUD。
+	
+6.appirater: Appirater是一个可以直接使用到任何iPhone应用（iOS4.0及以上）中的开源类，用于提醒用户在打开App时，对应用进行评论或打分。
+
+7.QuickDialog:  QuickDialog可以帮助开发者快速创建复杂的表单，实现包括登录界面在内的各种样式的TableView输入界面，此外，还可以创建带有多个文本域的表格及项目。
+
+8.GMGridView: GMGridView是一款开源的iOS（iPhone/iPad）表格视图，允许用户手势对表格单元进行排序，在单元格需要展示时才进行装载，这样极大地提高了表格的效率。其中的伸缩/旋转/平移手势能够让用户改变视图，还能够实现从CellView到全屏的切换。
+
+9.ViewDeck: IIViewDeckController能够实现类似于Path 2.0 的视图左右滑动的效果，支持向左或向右顺滑的滑动操作。
+
+10.
+    
+	
+	DZNEmptyDataSet（UI，空表格视图解算器）
 
     PDTSimpleCalendar（UI，drop-in日历组件）
 
